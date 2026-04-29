@@ -54,7 +54,6 @@ Interested in working with us or learning more about what we build?
 - 📧 **Email:** info@vextralimited.com
 - 🌐 **Website:** [vextralimited.com](https://www.vextralimited.com)
 - 🐦 **Twitter/X:** [@VextraHQ](https://twitter.com/VextraHQ)
-- 📍 **Location:** Suite A5, Maitama Shopping Complex, Abuja FCT, Nigeria
 
 ---
 
